@@ -1,1 +1,7 @@
+{
+  "name": "flixrf-api",
+  "version": "1.0.0",
+  "description": "FlixRF Stream API — extrai links diretos de vídeo sem iframe",
+  "main": "api/stream.js"
+}
 
