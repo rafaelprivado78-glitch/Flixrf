@@ -1,7 +1,7 @@
 {
   "version": 2,
   "functions": {
-    "api/stream.js": {
+    "api/index.js": {
       "maxDuration": 15
     }
   },
